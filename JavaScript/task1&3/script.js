@@ -2,12 +2,12 @@
 
 let fName = "Badul";
 let lName = "Chowdhury";
-let loc = "London";
+let myLoc = "London";
 let stSign = "Astrological";
 
 console.log(fName);
 console.info(lName);
-console.warn(loc);
+console.warn(myLoc);
 console.error(stSign);
 
-console.log("This is now %c the end of the exercises.","color: orange;font-family:fantasy; font-style: Bold; background-color: black;padding: 10px");
+console.log("This is now %c the end of the exercises.","color: white;font-family:fantasy; font-style: Bold; background-color: blue;padding: 10px");
